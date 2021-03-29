@@ -1,3 +1,4 @@
 packages:
   - git: "https://github.com/boxysean/dbt_pet_store_core.git"
-    revision: 1.0.0
+    # `revision` is the git reference: a commit, a branch name, a tag
+    revision: main
