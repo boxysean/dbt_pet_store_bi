@@ -1,0 +1,10 @@
+
+version: 2
+
+models:
+    - name: agg_pet_species_count
+      columns:
+          - name: pet_species
+            tests:
+                - unique
+                - not_null

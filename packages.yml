@@ -1,0 +1,3 @@
+packages:
+  - git: "https://github.com/boxysean/dbt_pet_store_core.git"
+    revision: 1.0.0
